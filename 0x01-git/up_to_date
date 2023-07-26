@@ -1,1 +1,1 @@
-"git merge origin/main" 
+"git fetch origin main" 
